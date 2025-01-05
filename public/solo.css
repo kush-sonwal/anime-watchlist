@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Creepster', serif;
+    background-color:black;
+    text-align: center;
+    color:white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#para {
+    color:whitesmoke;
+    background-color: none;
+    text-align: center;
+    font-weight: bold;
+    background-color: black;
+}
+
+#small {
+    border: 5px solid white;
+    width: 100%;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
+body {
+    background-image: url(../assets/images/solohd.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#foot {
+    text-align: center;
+    font-weight: 900;
+}
+
+#Go {
+    color:brown;
+    background-color: black;
+    border: 5px solid white;
+}
+
